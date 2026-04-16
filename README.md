@@ -352,7 +352,7 @@ wdsigex mpasbase.extracted out --sig-type LUASTANDALONE --decode --extract-lua
 
 + Source code written in C#;
 + Part of Windows Defender research toolchain:
-  + MpEnum -> ```textdefender.csv```
+  + MpEnum -> ```defender.csv```
   + WDExtract -> ```mpavbase.extracted / mpasbase.extracted```
   + WSigEx -> signature analysis and per threat chunk dump
 + Can be built with modern .NET SDK / Visual Studio environments.
