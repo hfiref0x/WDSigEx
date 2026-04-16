@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WDSigEx": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\test\\mpavbase.extracted out5 --decode --decode-json --threat Alureon --catalog c:\\test\\defender.csv"
+    }
+  }
+}
