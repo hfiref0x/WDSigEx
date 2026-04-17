@@ -1,5 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhfiref0x%wdsigex&countColor=%23263759&style=flat)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhfiref0x%2FWDSigEx&countColor=%23263759&style=flat)
 # WDSigEx
 
 Parse Windows Defender extracted signature databases, enumerate threat records, export threat chunks, collect statistics, and decode selected signature types for reverse engineering and analysis.
